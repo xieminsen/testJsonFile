@@ -1,5 +1,9 @@
 package com.xms.bean;
-
+/**
+ * 这是注释
+ * @author xie
+ *
+ */
 public class T_MALL_ADDRESS {
 
 	private int id;
