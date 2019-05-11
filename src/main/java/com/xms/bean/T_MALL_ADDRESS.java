@@ -12,6 +12,7 @@ public class T_MALL_ADDRESS {
 	private int yh_id;
 	private String shjr;
 	private String lxfsh;
+	private String test1;
 
 	public int getId() {
 		return id;
